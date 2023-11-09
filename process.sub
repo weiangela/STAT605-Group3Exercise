@@ -16,4 +16,4 @@ request_cpus = 1
 request_memory = 1GB
 request_disk = 1GB
 
-queue file from largefile00,largefile01,largefile02,largefile03,largefile04
+queue file from file.list
